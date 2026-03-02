@@ -10,7 +10,9 @@ subtitle: July 13th-15th, Heraklion (Greece)
 
 The event is hosted by the Hellenic Centre for Marine Research (HCMR) and funded by [The Company of Biologists](http://www.biologists.com/).
 
+<center>
 ![CoB logo]({{marinapapa.github.io}}/TRASEworkshop2026/assets/img/CoB_logo.jpg "CoB logo")
+</center>
 
 #### Participation & Programme Overview
 
