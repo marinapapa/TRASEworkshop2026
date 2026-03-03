@@ -8,9 +8,9 @@ subtitle: July 13th-15th, Heraklion (Greece)
 
 <center>The TRASE workshop is a hands-on, three-day event on methods & tools in social evolution for early-career researchers in Greece and the Eastern Mediterranean. Participants will gain practical experience with state-of-the-art methods for studying social behaviour, evolution and group dynamics in wild populations, including GPS tracking, proximity sensors, advanced behavioural analysis tools and agent-based modelling. The workshop aims to foster collaboration and new research directions, introducing the study of social evolution in the region.</center>
 
-The event is hosted by the Hellenic Centre for Marine Research (HCMR) and funded by [The Company of Biologists](http://www.biologists.com/).
+The event is hosted by the [Hellenic Centre for Marine Research (HCMR)](https://www.hcmr.gr/en/) and funded by [The Company of Biologists](http://www.biologists.com/).
 
-<center>
+<center> 
 ![CoB logo]({{marinapapa.github.io}}/TRASEworkshop2026/assets/img/CoB_logo.jpg "CoB logo")
 </center>
 
