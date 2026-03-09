@@ -3,7 +3,7 @@ layout: home
 title: TRASE Workshop 2026
 subtitle: July 13th-15th, Heraklion (Greece)
 ---
-![TRASE Logo]({{marinapapa.github.io}}/TRASEworkshop2026/assets/img/TRASE_logo.jpg "TRASE Logo")
+![TRASE Logo]({{marinapapa.github.io}}/TRASEworkshop2026/assets/img/TRASE_logo.png "TRASE Logo")
 ### <center> Welcome to the 2026 Workshop on Tools for Research in Animal Social Evolution (TRASE) </center>
 
 <center>The TRASE workshop is a hands-on, three-day event on methods & tools in social evolution for early-career researchers in Greece and the Eastern Mediterranean. Participants will gain practical experience with state-of-the-art methods for studying social behaviour, evolution and group dynamics in wild populations, including GPS tracking, proximity sensors, advanced behavioural analysis tools and agent-based modelling. The workshop aims to foster collaboration and new research directions, introducing the study of social evolution in the region.</center>
@@ -24,7 +24,7 @@ Key sessions include:
 
 More details will follow soon at our [programme page](https://marinapapa.github.io/TRASEworkshop2026/Programme/).
 
-For any questions, please contact us at xxxx@xxxx.x.
+For any questions, please contact us at traseworkshop@proton.me.
 
 #### Supported by
 
