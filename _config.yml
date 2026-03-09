@@ -13,19 +13,18 @@
 title: TRASE Workshop 2026 
 
 # Your name to show in the footer
-author: Papadopoulou M.
+author: Funded by The Company of Biologists
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  Programme: "Programme"
+  ##Programme: "Programme"
   Apply: "Apply"
   Organisers: "Organisers"
-  Practical Information:
-    - Venue: "Venue"
-    - Registration: "Registration"
+  Venue: "Venue"
+  Registration: "Registration"
    ## - Info for Attendees: "Attendees"
 
 ################
@@ -99,7 +98,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "traseworkshop.github.io"
+#url-pretty: "traseworkshop.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true

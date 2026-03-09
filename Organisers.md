@@ -14,9 +14,9 @@ Our TRASE team is looking forward to welcoming you to in Crete this July! We're 
  - #### [Dr Marina Papadopoulou](https://www.marinapapadopoulou.com)
  > Postdoctoral Researcher at the Max Planck institute for Human Developement with an expertise in self-organization of social systems(Berlin, Germany).
 - #### [Dr Danai Papageorgiou](https://danaipapageorgiou.weebly.com/)
-> Postdoctoral Researcher at the University of Bristol with an expertise in behavioural ecology and animal societies (Bristol, United Kingdom).
+> Emmy Noether Group Leader at the Humboldt-Universität zu Berlin with an expertise in behavioural ecology, using biologging tools, social network analysis and drone tracking (Berlin, Germany).
 - #### [Dr Nikolaos Smit](https://nksmt.gitlab.io/nikos_smit/aboutme.html)
 >  Postdoctoral Researcher at the University of Turku with an expertise on the evolution of social and mating systems (Turku, Finland).
 - #### [Dr Alexandros Vezyrakis](https://www.uni-hildesheim.de/fb4/institute/biologie/abteilung-biologie/mitglieder/alexandros-vezyrakis/)
-> Postdoctoral Researcher at the University of Hildesheim with an expertise on behavioural ecology and animal innovation.
+> Postdoctoral Researcher at University of Ghent with an expertise on behavioural ecology and animal innovation (Ghent, Belgium).
 
