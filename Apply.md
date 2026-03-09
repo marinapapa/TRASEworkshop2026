@@ -3,7 +3,7 @@ layout: page
 title: Apply
 ---
 
-## Applications will open soon
+## Applications are open!
 
 You can apply to attend our workshop [here](https://cryptpad.fr/form/#/2/form/view/lg41XqwsnHP2mKWrF8MNEjn8AmsI4TlbksWsG4I7+TI/). You will be asked to mention your motivation for joining the workshop and share your previous experience with our theme. For any issues with the form, please contact us.
 
