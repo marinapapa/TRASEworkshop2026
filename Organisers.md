@@ -7,8 +7,8 @@ title: "Organising Committee"
 
 Our TRASE team is looking forward to welcoming you to in Crete this July! We're a group of Greek Early Career Researchers studying animal societies, individual and group social behaviour and evolution across many species, from fish and mice to primates and humans.
 
-- #### [Fragiskos Darmis](https://www.evolbio.mpg.de/person/125184/3290170) 
-> Doctoral Researcher at the Max Planck Institute for Evolutionary Biology with an expertise in behavioural ecology of individual differences (Plon, Germany). 
+- #### [Dr Fragiskos Darmis](https://www.evolbio.mpg.de/person/125184/3290170) 
+> Researcher at the Max Planck Institute for Evolutionary Biology with an expertise in behavioural ecology of individual differences (Plon, Germany). 
 - #### [Dr Dimitra Georgopoulou](https://imbbc.hcmr.gr/user/d-georgopoulou/) 
 > Postdoctoral Researcher at the Hellenic Centre for Marine Research with an expertise in computational biology and animal movement (Heraklion, Greece).  
  - #### [Dr Marina Papadopoulou](https://www.marinapapadopoulou.com)
